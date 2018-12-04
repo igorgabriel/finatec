@@ -1,0 +1,31 @@
+{
+  "name": "finatec",
+  "version": "1.0.0",
+  "description": "POC-FINATEC",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorgabriel/finatec.git"
+  },
+  "author": "Igor Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorgabriel/finatec/issues"
+  },
+  "homepage": "https://github.com/igorgabriel/finatec#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.3.14"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.17.0",
+    "@types/jsonwebtoken": "^8.3.0",
+    "@types/mongoose": "^5.3.2",
+    "@types/node": "^10.12.12"
+  }
+}
